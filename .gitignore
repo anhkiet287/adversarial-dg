@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+*.egg-info/
+dist/
+build/
+
+.data/
+datasets/raw/
+experiments/**/checkpoints/
+experiments/**/wandb/
+wandb/
+.DS_Store
+.vscode/*.log

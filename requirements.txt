@@ -1,0 +1,15 @@
+torch>=2.3
+torchvision>=0.18
+torchaudio>=2.3
+numpy
+tqdm
+matplotlib
+pandas
+scikit-learn
+advertorch
+adversarial-robustness-toolbox
+git+https://github.com/fra31/auto-attack.git
+tensorboard
+wandb
+black
+ruff
