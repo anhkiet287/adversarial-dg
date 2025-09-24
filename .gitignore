@@ -14,3 +14,5 @@ experiments/**/wandb/
 wandb/
 .DS_Store
 .vscode/*.log
+
+setup.md
