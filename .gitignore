@@ -15,4 +15,5 @@ wandb/
 .DS_Store
 .vscode/*.log
 
+model_best.pth.tar
 setup.md
