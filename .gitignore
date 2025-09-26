@@ -17,4 +17,6 @@ wandb/
 
 model_best.pth.tar
 setup.md
-assets/*.pt # if you haven’t ignored these already
+./assets/
+cw_l2_attack.pt
+
