@@ -17,4 +17,4 @@ wandb/
 
 model_best.pth.tar
 setup.md
-assets/pgd_attack.ptassets/*.pt # add whatever pattern you prefer
+assets/*.pt # if you haven’t ignored these already
