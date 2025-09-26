@@ -1,0 +1,42 @@
+{
+  "0": [
+    "cifar10_airplane",
+    "airplane"
+  ],
+  "1": [
+    "cifar10_automobile",
+    "automobile"
+  ],
+  "2": [
+    "cifar10_bird",
+    "bird"
+  ],
+  "3": [
+    "cifar10_cat",
+    "cat"
+  ],
+  "4": [
+    "cifar10_deer",
+    "deer"
+  ],
+  "5": [
+    "cifar10_dog",
+    "dog"
+  ],
+  "6": [
+    "cifar10_frog",
+    "frog"
+  ],
+  "7": [
+    "cifar10_horse",
+    "horse"
+  ],
+  "8": [
+    "cifar10_ship",
+    "ship"
+  ],
+  "9": [
+    "cifar10_truck",
+    "truck"
+  ]
+}
